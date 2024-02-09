@@ -1,4 +1,5 @@
-﻿using Umfg.ProgramacaoIV.Aula08022024.TiposDeValor;
+﻿using Umfg.ProgramacaoIV.Aula08022024.Estruturas;
+using Umfg.ProgramacaoIV.Aula08022024.TiposDeValor;
 
 namespace Umfg.ProgramacaoIV.Aula08022024
 {
@@ -15,7 +16,13 @@ namespace Umfg.ProgramacaoIV.Aula08022024
 
             //new TipoBoolean().Executar();
 
-            new TipoDateTime().Executar();
+            //new TipoDateTime().Executar();
+
+            //new TipoEnum().Executar();
+
+            //new Condicao().Executar();
+
+            new Repeticao().Executar();
 
             Console.ReadLine();
         }

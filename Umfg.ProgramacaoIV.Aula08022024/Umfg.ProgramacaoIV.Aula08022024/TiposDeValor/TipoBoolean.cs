@@ -18,7 +18,7 @@ namespace Umfg.ProgramacaoIV.Aula08022024.TiposDeValor
 
             Console.WriteLine("boolUm: " + boolUm);
             Console.WriteLine("boolDois: " + boolDois);
-            Console.WriteLine("boolQuatro: " + boolQuatro);
+            Console.WriteLine("boolQuatr: " + boolQuatro);
         }
     }
 }
